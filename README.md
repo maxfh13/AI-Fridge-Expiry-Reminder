@@ -130,3 +130,67 @@ https://www.tensorflow.org/
 
 Kaggle Fruit and Vegetable Image Recognition Dataset.
 https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
+
+## Results
+The final prototype successfully works as an AI-powered fridge expiry reminder system.
+The main results are:
+1. Food Recognition Result
+-  The system can recognize food from an uploaded image. It can identify fruits, vegetables, and common fridge foods. This makes the system easier to use because     the user does not need to type the food name manually.
+
+2. OCR Expiry-Date Reading Result
+-  The system can read expiry-date labels using OCR. When the label photo is clear, the system can detect the expiry information. If the OCR result is not clear,     the manual input works as a backup.
+
+3. Spoilage Risk Prediction Result
+-  The system can predict spoilage risk as Low Risk, Medium Risk, or High Risk. The risk prediction is based on food type, days stored, package status, storage       location, and days until expiry. For example, an apple drink stored in the fridge with several days left before expiry was predicted as Low Risk. This means       the food still has low spoilage urgency and does not need immediate attention.
+
+4. My Fridge Dashboard Result
+-  The My Fridge dashboard successfully saves analyzed food items. It works like a fridge memory system, helping users remember what food they have and which         items need attention.
+-  The dashboard can show:
+   - Total food items
+   - High-risk items
+   - Items expiring soon
+   - Food name
+   - Risk level
+   - Days left
+   - Reminder message
+
+5. LINE Reminder Result
+-  The LINE reminder feature successfully sends the latest reminder to the user’s LINE account when the LINE Official Account, Messaging API, Channel Access          Token, and User ID are connected correctly. This makes the project more practical because users can receive reminders on LINE, an app many students already use    daily.
+
+6. Online Demo Result
+-  The project was deployed using Hugging Face Spaces. This means users can access the project through a public link without running Google Colab manually. This      is useful for exhibition testing because visitors can open the link or scan a QR code.
+-  Overall, the result shows that AI Smart Fridge can help users manage food before it expires. The system is more useful than a normal reminder app because it       combines food recognition, OCR, risk prediction, dashboard tracking, and LINE notification.
+
+## Contributor
+- Name	                     Role
+- Max Frederico Harmajie	   Project development, Gradio interface, AI system setup, LINE integration, Hugging Face deployment
+- Kent Millian Peng          Project research, explanation, and testing support
+- Valerie Keisha Ongkowijoyo Dataset organization, testing photos, and documentation support
+- ivory Ameris               Presentation support, demo support, and final review
+
+## Acknowledgments
+We would like to thank our Introduction to AI course instructor for giving feedback and guidance during the project. The feedback helped us improve the project from a simple food reminder idea into a stronger AI system that includes food recognition, OCR, risk prediction, My Fridge dashboard, and LINE reminder integration.
+
+We also acknowledge the open-source tools and platforms used in this project, including Python, Gradio, Hugging Face Spaces, EasyOCR, CLIP, TensorFlow, scikit-learn, and LINE Messaging API.
+
+## References
+Gradio Documentation.
+https://www.gradio.app/
+
+Hugging Face Spaces.
+https://huggingface.co/spaces
+
+LINE Messaging API Documentation.
+https://developers.line.biz/en/docs/messaging-api/
+
+EasyOCR GitHub Repository.
+https://github.com/JaidedAI/EasyOCR
+
+CLIP Model.
+https://huggingface.co/openai/clip-vit-base-patch32
+
+
+
+scikit-learn Random Forest Documentation.
+https://scikit-learn.org/
+
