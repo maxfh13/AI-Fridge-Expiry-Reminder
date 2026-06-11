@@ -69,31 +69,17 @@ AI-Smart-Fridge
     - Including library installation, dataset loading, food recognition,
     - OCR expiry-date reading, spoilage risk prediction, Gradio interface,
     - My Fridge dashboard, and LINE reminder function.
-      
-2. app.py
-    - Python application file used for Hugging Face Spaces deployment.
-    - It runs the Gradio interface online.
-      
-3. requirements.txt
-    - List of Python libraries needed to run the Hugging Face app.
-      
-4. README.md
+
+2. README.md
     - Project explanation, setup instructions, file structure, analysis,
     - results, contributors, acknowledgments, and references.
       
-5. images
-    - Screenshots of the interface, food scanning result, My Fridge dashboard, and LINE reminder output.
+3. app.py
+    - Python application file used for Hugging Face Spaces deployment.
+    - It runs the Gradio interface online.
       
-6. docs
-    - Final paper, presentation slides, or exhibition notes.
-      
-7. fridge_inventory.csv
-    - Generated file that stores saved food items in the My Fridge dashboard.
-      
-8. saved model files
-    - Food recognition or risk prediction model files, if saved after training.
-
-The notebook is the main development file. The app.py file is used for the online demo. The requirements.txt file tells Hugging Face which libraries to install. The images folder stores visual proof of the project, while the docs folder stores written project materials.
+4. requirements.txt
+    - List of Python libraries needed to run the Hugging Face app.
 
 ## Analysis
 Analysis
