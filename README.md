@@ -169,11 +169,11 @@ The main results are:
 -  Overall, the result shows that AI Smart Fridge can help users manage food before it expires. The system is more useful than a normal reminder app because it       combines food recognition, OCR, risk prediction, dashboard tracking, and LINE notification.
 
 ## Contributor
-Name	                     Role
-Max Frederico Harmajie	   Project development, Gradio interface, AI system setup, LINE integration, Hugging Face deployment
-Kent Millian Peng          Project research, explanation, and testing support
-Valerie Keisha Ongkowijoyo Dataset organization, testing photos, and documentation support
-ivory Ameris               Presentation support, demo support, and final review
+- Name	                     Role
+- Max Frederico Harmajie	   Project development, Gradio interface, AI system setup, LINE integration, Hugging Face deployment
+- Kent Millian Peng          Project research, explanation, and testing support
+- Valerie Keisha Ongkowijoyo Dataset organization, testing photos, and documentation support
+- ivory Ameris               Presentation support, demo support, and final review
 
 ## Acknowledgments
 We would like to thank our Introduction to AI course instructor for giving feedback and guidance during the project. The feedback helped us improve the project from a simple food reminder idea into a stronger AI system that includes food recognition, OCR, risk prediction, My Fridge dashboard, and LINE reminder integration.
