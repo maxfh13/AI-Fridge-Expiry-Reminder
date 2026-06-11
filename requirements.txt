@@ -1,0 +1,10 @@
+gradio
+pandas
+numpy
+pillow
+requests
+easyocr
+opencv-python-headless
+scikit-learn
+torch
+transformers
