@@ -154,12 +154,7 @@ The main results are:
    - Days left
    - Reminder message
 
-5. LINE Reminder Result
--  The LINE reminder feature successfully sends the latest reminder to the user’s LINE account when the LINE Official Account, Messaging API, Channel Access          Token, and User ID are connected correctly. This makes the project more practical because users can receive reminders on LINE, an app many students already use    daily.
 
-6. Online Demo Result
--  The project was deployed using Hugging Face Spaces. This means users can access the project through a public link without running Google Colab manually. This      is useful for exhibition testing because visitors can open the link or scan a QR code.
--  Overall, the result shows that AI Smart Fridge can help users manage food before it expires. The system is more useful than a normal reminder app because it       combines food recognition, OCR, risk prediction, dashboard tracking, and LINE notification.
 
 ## Contributor
 - Name	                     Role
