@@ -173,5 +173,24 @@ We would like to thank our Introduction to AI course instructor for giving feedb
 
 We also acknowledge the open-source tools and platforms used in this project, including Python, Gradio, Hugging Face Spaces, EasyOCR, CLIP, TensorFlow, scikit-learn, and LINE Messaging API.
 
+## References
+Gradio Documentation.
+https://www.gradio.app/
 
+Hugging Face Spaces.
+https://huggingface.co/spaces
+
+LINE Messaging API Documentation.
+https://developers.line.biz/en/docs/messaging-api/
+
+EasyOCR GitHub Repository.
+https://github.com/JaidedAI/EasyOCR
+
+CLIP Model.
+https://huggingface.co/openai/clip-vit-base-patch32
+
+
+
+scikit-learn Random Forest Documentation.
+https://scikit-learn.org/
 
