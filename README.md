@@ -7,26 +7,7 @@
 
 ## Getting Started
 
-[To run this project, users need Python and several required libraries. The project was mainly developed using Google Colab because it is easier to install libraries, test AI models, and run the Gradio web interface.
-- Required Software
-- Python
-- Google Colab or local Python environment
-- Gradio
-- TensorFlow
-- scikit-learn
-- pandas
-- numpy
-- Pillow
-- EasyOCR
-- OpenCV
-- Transformers
-- PyTorch
-- LINE Messaging API account, only if the LINE reminder feature is used
-Installation
-1. Install the required libraries:
--  !pip install gradio scikit-learn tensorflow pandas numpy matplotlib pillow easyocr opencv-python-headless transformers torch
--  If using the Kaggle food image dataset, also install KaggleHub:
--  !pip install kagglehub
+
 
 2. Then download the food image dataset:
 -  import kagglehub
