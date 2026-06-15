@@ -63,7 +63,7 @@ https://huggingface.co/spaces/Maxfh13/AIFRIDGEEXPIRYREMINDER
 
 ## File Structure
 The project files are organized as follows:
-AI-Smart-Fridge
+AI FRIDGE EXPIRY REMINDER
 1. AI_SMART_FRIDGE.ipynb
     - Main project notebook. This file contains the full development process,
     - Including library installation, dataset loading, food recognition,
