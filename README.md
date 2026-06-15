@@ -1,13 +1,13 @@
 # Project Title
 
-[AI Fridge Expiry Reminder]
+AI Fridge Expiry Reminder
 
 ## Project Description
-[AI Smart Fridge is an AI-powered food expiry assistant. Users upload a food photo and expiry-date photo. The system recognizes the food, reads the date using OCR, predicts spoilage risk as Low, Medium, or High, creates reminders, saves items in My Fridge, and can send reminders to LINE.]
+AI Smart Fridge is an AI-powered food expiry assistant. Users upload a food photo and expiry-date photo. The system recognizes the food, reads the date using OCR, predicts spoilage risk as Low, Medium, or High, creates reminders, saves items in My Fridge, and can send reminders to LINE.
 
 ## Getting Started
 
-[To run this project, users need Python and several required libraries. The project was mainly developed using Google Colab because it is easier to install libraries, test AI models, and run the Gradio web interface.
+To run this project, users need Python and several required libraries. The project was mainly developed using Google Colab because it is easier to install libraries, test AI models, and run the Gradio web interface.
 - Required Software
 - Python
 - Google Colab or local Python environment
